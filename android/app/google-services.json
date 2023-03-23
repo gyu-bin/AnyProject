@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "38316243301",
+    "project_id": "onyou-7e97f",
+    "storage_bucket": "onyou-7e97f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38316243301:android:34de37a14e1226e6ee098c",
+        "android_client_info": {
+          "package_name": "com.onyoufrontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38316243301-udnvknutddr3gmuqrbgap1b61p5829vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PcQkkNGNQHt4WXxz8vg1APFRaVrmb3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38316243301-udnvknutddr3gmuqrbgap1b61p5829vj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38316243301-e2988ncv7e7s8ep2pcfopvhui5qj49ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onyou.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
